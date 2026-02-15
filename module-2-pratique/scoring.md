@@ -17,8 +17,10 @@ Le score final est calculé selon **4 piliers** :
 - **⚠️ Pénalité XL réussie** : Les tâches XL comptent seulement **50% de leur valeur** (floues, difficiles à estimer, valeur métier incertaine)
 - **❌ Malus  échouée** : **-50% des story points** de la tâche  non terminée
 - **📉 Malus US ouvertes** :  retrancher  2 x points d'estimation pour chaque US **non commencée** en fin de sprint (work-in-progress excessif)
-- **📈Malus vélocité non atteinte** : retrancher 1 point de score par sprint où la vélocité n'a pas été atteinte
-ouvertes veut dire: non commencées
+- **📈Malus vélocité non alignée** : à la 2e itération vous devez appliquer la vélocité constatée à la 1ère itération (= votre capacité à produire.)
+Si en fin de sprint, votre vélocité n'est pas atteinte, c'est à dire que vous avez moins de points effectués que prévu, **retrancher cette différence de points au score**.  
+
+> US ouvertes veut dire: non commencées
 
 #### Formule de calcul
 ```
