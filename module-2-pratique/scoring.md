@@ -8,22 +8,24 @@ Ce document définit comment calculer le score final des équipes à la fin du j
 
 Le score final est calculé selon **4 piliers** :
 
-### 1️⃣ Valeur métier livrée (35 points max)
+### 1️⃣ Valeur métier livrée  
 
 **Calcul** : Points de vélocité accumulés sur tous les sprints
 
 #### Scoring
 - **1 point de vélocité = 1 point de score** (pour tailles S et M uniquement)
 - **⚠️ Pénalité XL réussie** : Les tâches XL comptent seulement **50% de leur valeur** (floues, difficiles à estimer, valeur métier incertaine)
-- **❌ Malus XL échouée** : **-50% des story points** de la tâche XL non terminée
-- **📉 Malus US ouvertes** : **-2 points par US non terminée** en fin de sprint (work-in-progress excessif)
+- **❌ Malus  échouée** : **-50% des story points** de la tâche  non terminée
+- **📉 Malus US ouvertes** :  retrancher  2 x points d'estimation pour chaque US **non commencée** en fin de sprint (work-in-progress excessif)
+- **📈Malus vélocité non atteinte** : retrancher 1 point de score par sprint où la vélocité n'a pas été atteinte
+ouvertes veut dire: non commencées
 
 #### Formule de calcul
 ```
 Score = Σ(story points S/M livrés)
       + Σ(story points XL livrés × 0.5)
-      - Σ(story points XL échouées × 0.75)
-      - (Nombre total d'US ouvertes en fin de sprint × 2)
+      - Σ(story points échouées × 0.5)
+      - (story points des US  ouvertes en fin de sprint × 2)
 ```
 
 #### Exemple
