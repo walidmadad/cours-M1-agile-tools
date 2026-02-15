@@ -56,11 +56,11 @@ Vous êtes l'équipe de développement de **FlowMaster**, une startup qui lance 
 
 2. **Scrum Master / Facilitateur** (1 personne)
    - Gère le board Jira
-   - Chronomètre les sprints
-   - Note les métriques
+   - Note les dés tirés
+   - Présente les métriques
 
 3. **Développeurs** (2-3 personnes)
-   - Réalisent les stories (écrivent les livrables)
+   - Réalisent les stories (tirent les dés)
    - Estiment les stories
    - Signalent les blocages
 
@@ -84,18 +84,17 @@ Vous êtes l'équipe de développement de **FlowMaster**, une startup qui lance 
 9. **user-stories/FEAT-*.md** : Features urgentes (changements de priorité)
 
 ### 📊 Utilitaires
-10. **phases-et-evenements.md** : Scénario détaillé des 6 sprints avec imprévus
-11. **guide-animateur.md** : Instructions pour l'enseignant
-12. **setup-jira.md** : Guide de configuration Jira
-13. **fiche-metriques.md** : Tableau de suivi des métriques
+1. **guide-animateur.md** : Instructions pour l'enseignant
+2. **setup-jira.md** : Guide de configuration Jira
+3. **fiche-metriques.md** : Tableau de suivi des métriques
 
 ---
 
-## Système de jeu (Option C - Dés) 🎲
+## Système de jeu ( Dés) 🎲
 
 ### Principe
 - Chaque User Story a des **critères d'acceptation** avec une valeur de dé (1 à 6)
-- L'équipe dispose d'un **temps limité** (2-3 min par sprint) pour lancer les dés
+- L'équipe dispose d'un **temps limité** (5 min par sprint) pour lancer les dés
 - Un critère est validé si le dé obtient **exactement sa valeur**
 - Une US est **terminée** si **tous ses critères** sont validés
 
