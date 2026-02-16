@@ -36,19 +36,19 @@ Afin de livrer une fonctionnalité majeure avec une très forte valeur métier.
 
 ### ☑️ Critère 4 : Implémentation Front-End
 - **Catégorie** : _Aucune_
-- **Valeur du dé** : 🎲 Tirer **5 ou +**
+- **Valeur du dé** : 🎲 Tirer **6**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non
 
 ### ☑️ Critère 5 : Tests exhaustifs
 - **Catégorie** : `[TESTS]` _(si bonus actif)_
-- **Valeur du dé** : 🎲 Tirer **5 ou +**
+- **Valeur du dé** : 🎲 Tirer **6**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non / ✅ Oui _(si bonus [TESTS] actif)_
 
 ### ☑️ Critère 6 : Performance et optimisation
 - **Catégorie** : `[PERF]` _(si bonus actif)_
-- **Valeur du dé** : 🎲 Tirer **3**
+- **Valeur du dé** : 🎲 Tirer **3 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non / ✅ Oui _(si bonus [PERF] actif)_
 

@@ -16,7 +16,7 @@ Afin de livrer une fonctionnalité complète avec une valeur métier significati
 
 ### ☑️ Critère 1 : Design Base de données
 - **Catégorie** : _Aucune_
-- **Valeur du dé** : 🎲 Tirer **3 ou +**
+- **Valeur du dé** : 🎲 Tirer **2 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non
 
@@ -28,19 +28,19 @@ Afin de livrer une fonctionnalité complète avec une valeur métier significati
 
 ### ☑️ Critère 3 : Implémentation Front-End
 - **Catégorie** : _Aucune_
-- **Valeur du dé** : 🎲 Tirer **3 ou +**
+- **Valeur du dé** : 🎲 Tirer **4 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non
 
 ### ☑️ Critère 4 : Tests complets
 - **Catégorie** : `[TESTS]` _(si bonus actif)_
-- **Valeur du dé** : 🎲 Tirer **4 ou +**
+- **Valeur du dé** : 🎲 Tirer **5 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non / ✅ Oui _(si bonus [TESTS] actif)_
 
 ### ☑️ Critère 5 : Intégration et validation
 - **Catégorie** : `[CI/CD]` _(si bonus actif)_
-- **Valeur du dé** : 🎲 Tirer **4 ou +**
+- **Valeur du dé** : 🎲 Tirer **6**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non / ✅ Oui _(si bonus [CI/CD] actif)_
 

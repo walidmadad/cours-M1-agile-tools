@@ -22,13 +22,13 @@ Afin de faire progresser le projet avec des changements mineurs.
 
 ### ☑️ Critère 2 : Implémentation Back-End
 - **Catégorie** : _Aucune_
-- **Valeur du dé** : 🎲 Tirer **2 ou +**
+- **Valeur du dé** : 🎲 Tirer **3 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non
 
 ### ☑️ Critère 3 : Tests basiques
 - **Catégorie** : `[TESTS]` _(si bonus actif)_
-- **Valeur du dé** : 🎲 Tirer **2 ou +**
+- **Valeur du dé** : 🎲 Tirer **4 ou +**
 - **Statut** : ⬜ Non validé / ✅ Validé
 - **Permanent** : ❌ Non / ✅ Oui _(si bonus [TESTS] actif)_
 
