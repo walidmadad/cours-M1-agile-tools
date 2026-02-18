@@ -25,14 +25,14 @@
 
 | ID    | User Story                                                                                                                                                                                                      | Estimation | Valeur | Priorité |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | ? | ?      | ? |
-| EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | ? | ?      | ? |
-| EPIC-1-FM-3  | En tant qu'**artisan**, je veux **réinitialiser mon mot de passe** afin de **retrouver l'accès à mon compte**                                                                                                   | ? | ?      | ? |
-| EPIC-1-FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | ? | ?      | ? |
-| EPIC-1-FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | ? | ?      | ? |
-| EPIC-1-FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | ? | ?      | ? |
-| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | ? | 77     | ? |
-| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | ? | 45     | ? |
+| EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | S | 2      | ? |
+| EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | M | 5      | ? |
+| EPIC-1-FM-3  | En tant qu'**artisan**, je veux **réinitialiser mon mot de passe** afin de **retrouver l'accès à mon compte**                                                                                                   | S | 8      | ? |
+| EPIC-1-FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | L | 30      | ? |
+| EPIC-1-FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | M | 5      | ? |
+| EPIC-1-FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | S | 2      | ? |
+| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | 3xL | 77     | ? |
+| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | M | 45     | ? |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | ID    | User Story                                                                                                                                                                                | Estimation | Valeur | Priorité |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| EPIC-2-FM-9  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | ?          | ?      | ? |
-| EPIC-2-FM-10  | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles                                                 | XL         | ?      | ? |
-| EPIC-2-FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | ?          | ?      | ? |
-| EPIC-2-FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | ?          | ?      | ? |
-| EPIC-2-FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**                                                             | ?          | ?      | ? |
-| EPIC-2-FM-14 | En tant qu'**artisan**, je veux **gérer de façon avancée mes produits incluant   les promotions,   les produits liés et les recommandations** afin de **professionnaliser mon catalogue** | ? | 80     | ? |
-| EPIC-2-FM-15 | En tant qu'**artisan**, je veux **optimiser mon catalogue** afin d'**améliorer mes ventes**                                                                                               | ? | 72     | ? |
+| EPIC-2-FM-9  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | M          | 40      | ? |
+| EPIC-2-FM-10  | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles                                                 | M         | 38      | ? |
+| EPIC-2-FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | S          | 22      | ? |
+| EPIC-2-FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | M          | 28      | ? |
+| EPIC-2-FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**                                                             | S          | 26      | ? |
+| EPIC-2-FM-14 | En tant qu'**artisan**, je veux **gérer de façon avancée mes produits incluant   les promotions,   les produits liés et les recommandations** afin de **professionnaliser mon catalogue** | XL | 80     | ? |
+| EPIC-2-FM-15 | En tant qu'**artisan**, je veux **optimiser mon catalogue** afin d'**améliorer mes ventes**                                                                                               | XL | 72     | ? |
 
 ---
 
@@ -54,14 +54,14 @@
 
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
-| EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | ? | ?      | ? |
-| EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | ? | ?      | ? |
-| EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | ? | ?      | ? |
-| EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | ? | ?      | ? |
-| EPIC-3-FM-20 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | ? | ?      | ? |
-| EPIC-3-FM-21 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | ? | ?      | ? |
-| EPIC-3-FM-22 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** | ? | 65     | ? |
-| EPIC-3-FM-23 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | ? | 50     | ? |
+| EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | S | 35      | ? |
+| EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | M | 42      | ? |
+| EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | XL | 55      | ? |
+| EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | M | 45      | ? |
+| EPIC-3-FM-20 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | S | 25      | ? |
+| EPIC-3-FM-21 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | M | 30      | ? |
+| EPIC-3-FM-22 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** | XL | 65     | ? |
+| EPIC-3-FM-23 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | M | 50     | ? |
 
 ---
 
