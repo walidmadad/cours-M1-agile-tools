@@ -66,12 +66,8 @@ _Aucun (US fonctionnelle)_
 
 | Sprint | Dés lancés | Critères validés | Statut |
 |--------|------------|------------------|--------|
-|  | - | - | ⏳ Pas encore jouée |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
+| 0 | 21 | 4 | Terminé |
+
 
 ---
 
